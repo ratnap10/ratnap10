@@ -3,7 +3,6 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika 
 
 ## Kepakaran
 - Digital Drawing: Pengalaman dalam membuat gambar secara digital.
-  - ![image.jpg]( {} )
 - Banner Design: Pengalaman dalam membuat desain spanduk atau poster menggunakan photoshop.
 
 ## Pendidikan

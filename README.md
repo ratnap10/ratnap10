@@ -3,7 +3,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika 
 
 ## Kepakaran
 - Digital Drawing: Pengalaman dalam membuat gambar secara digital.
-  - ![image.jpg]( {E:\cillarn\a r t\new art\Done\derasmon_2023} )
+  - ![image.jpg]( {} )
 - Banner Design: Pengalaman dalam membuat desain spanduk atau poster menggunakan photoshop.
 
 ## Pendidikan

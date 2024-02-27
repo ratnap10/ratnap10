@@ -1,16 +1,18 @@
-### Hi there 👋
+## Tentang Saya
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika di Politeknik Negeri Bandung. Saya harap apa yang saya pelajari dapat berguna bagi saya sendiri dan orang-orang di sekitar saya.
 
-<!--
-**ratnap10/ratnap10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Kepakaran
+- Digital Drawing: Pengalaman dalam membuat gambar secara digital.
+- Banner Design: Pengalaman dalam membuat desain spanduk atau poster menggunakan photoshop.
 
-Here are some ideas to get you started:
+## Pendidikan
+- SMK Bukit Asam jurusan Rekayasa Perangkat Lunak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek dan Kontribusi
+Saya telah berkontribusi pada proyek tugas besar matkul Dasar-Dasar Pemrograman. Mendesain tampilan permainan Tic-Tac-Toe.
+
+## Menghubungi Saya
+- Email: ratna.puspitasari.tif423@polban.ac.id
+- Instagram: https://www.instagram.com/cillarn_/
+
+Terima kasih telah mengunjungi profil saya!
